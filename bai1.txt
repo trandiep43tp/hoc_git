@@ -7,5 +7,5 @@ aaaaaaaaaaaaaaa
 nay them du lieu tren may kkhac
 hom nay ngay 19/8
 x=15
-y=2
+y=10
 z=3
