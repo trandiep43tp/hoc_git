@@ -6,5 +6,5 @@ back up
 aaaaaaaaaaaaaaa
 nay them du lieu tren may kkhac
 hom nay ngay 19/8
-x=1
+x=3
 y=2
