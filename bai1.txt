@@ -9,5 +9,5 @@ hom nay ngay 19/8
 x=15
 y=10
 z=31
-a=11
+
 
