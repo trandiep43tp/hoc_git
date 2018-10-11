@@ -2,14 +2,4 @@ toi ten la Tran diep
 hom nay toi hoc git
 tiep tuc nao
 THEM LENH PULL
-back up
-aaaaaaaaaaaaaaa
-nay them du lieu tren may kkhac
-hom nay ngay 19/8
-x=15
-y=10
-z=31
-b=3
-c=2
-
-
+kiem tra lai
